@@ -7,4 +7,4 @@ require (
 	gopkg.in/ini.v1 v1.66.6
 )
 
-require github.com/sony/gobreaker v0.4.2-0.20210216022020-dd874f9dd33b // indirect
+require github.com/sony/gobreaker v0.5.0 // indirect
